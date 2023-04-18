@@ -1,0 +1,237 @@
+{
+    "usuario": [
+      {
+        "id": "andre@origamid.com",
+        "email": "andre@origamid.com",
+        "nome": "André Rafael",
+        "senha": "123",
+        "rua": "Rua Ali Perto",
+        "cep": "12345678",
+        "numero": "25",
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
+      }
+    ],
+    "produto": [
+      {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "andre@origamid.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook.",
+        "fotos": null
+      },
+      {
+        "id": "smartphone",
+        "nome": "Smartphone",
+        "usuario_id": "andre@origamid.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é um novo smartphone.",
+        "fotos": null
+      },
+      {
+        "id": "tablet",
+        "nome": "Tablet",
+        "usuario_id": "andre@origamid.com",
+        "preco": "1399",
+        "vendido": "false",
+        "descricao": "Esse é um novo tablet.",
+        "fotos": null
+      },
+      {
+        "id": "notebook-dell",
+        "nome": "Notebook Dell Inspiron",
+        "usuario_id": "maria@exemplo.com",
+        "preco": "3799",
+        "vendido": false,
+        "descricao": "Este é um novo notebook Dell com processador i7 e 16 GB de RAM.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "smartphone-samsung",
+        "nome": "Smartphone Samsung Galaxy A52",
+        "usuario_id": "joao@exemplo.com",
+        "preco": "1799",
+        "vendido": false,
+        "descricao": "Este é um novo smartphone Samsung com câmera quádrupla e tela de alta definição.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "tablet-ipad",
+        "nome": "Tablet Apple iPad 8ª Geração",
+        "usuario_id": "carlos@exemplo.com",
+        "preco": "2799",
+        "vendido": false,
+        "descricao": "Este é um novo tablet Apple com tela Retina e processador A12 Bionic.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "notebook-lenovo",
+        "nome": "Notebook Lenovo Yoga C740",
+        "usuario_id": "maria@exemplo.com",
+        "preco": "4599",
+        "vendido": false,
+        "descricao": "Este é um novo notebook Lenovo conversível com processador i5 e tela sensível ao toque.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "smartphone-xiaomi",
+        "nome": "Smartphone Xiaomi Poco X3 Pro",
+        "usuario_id": "joao@exemplo.com",
+        "preco": "1599",
+        "vendido": false,
+        "descricao": "Este é um novo smartphone Xiaomi com processador Snapdragon 860 e câmera quádrupla.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "tablet-samsung",
+        "nome": "Tablet Samsung Galaxy Tab S6 Lite",
+        "usuario_id": "carlos@exemplo.com",
+        "preco": "1899",
+        "vendido": false,
+        "descricao": "Este é um novo tablet Samsung com caneta S Pen e bateria de longa duração.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "notebook-hp",
+        "nome": "Notebook HP Pavilion 14",
+        "usuario_id": "maria@exemplo.com",
+        "preco": "4299",
+        "vendido": false,
+        "descricao": "Este é um novo notebook HP com processador Ryzen 5 e placa de vídeo NVIDIA GeForce MX350.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "notebook-asus",
+        "nome": "Notebook ASUS VivoBook S14",
+        "usuario_id": "maria@exemplo.com",
+        "preco": "2999",
+        "vendido": false,
+        "descricao": "Este é um novo notebook ASUS com processador Ryzen 5 e placa de vídeo NVIDIA GeForce MX350.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "smartphone-motorola",
+        "nome": "Smartphone Motorola Moto G9 Plus",
+        "usuario_id": "joao@exemplo.com",
+        "preco": "1299",
+        "vendido": false,
+        "descricao": "Este é um novo smartphone Motorola com processador Snapdragon 730G e câmera quádrupla.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "tablet-microsoft",
+        "nome": "Tablet Microsoft Surface Pro 7",
+        "usuario_id": "carlos@exemplo.com",
+        "preco": "4999",
+        "vendido": false,
+        "descricao": "Este é um novo tablet Microsoft com processador i7 e tela sensível ao toque.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "notebook-acer",
+        "nome": "Notebook Acer Nitro 5",
+        "usuario_id": "maria@exemplo.com",
+        "preco": "4799",
+        "vendido": false,
+        "descricao": "Este é um novo notebook Acer para jogos com processador i5 e placa de vídeo NVIDIA GeForce GTX 1650.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "smartphone-oneplus",
+        "nome": "Smartphone OnePlus 9",
+        "usuario_id": "joao@exemplo.com",
+        "preco": "3799",
+        "vendido": false,
+        "descricao": "Este é um novo smartphone OnePlus com processador Snapdragon 888 e câmera tripla.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "tablet-lenovo",
+        "nome": "Tablet Lenovo Tab P11 Pro",
+        "usuario_id": "carlos@exemplo.com",
+        "preco": "2799",
+        "vendido": false,
+        "descricao": "Este é um novo tablet Lenovo com tela OLED e quatro alto-falantes.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "notebook-lg",
+        "nome": "Notebook LG Gram",
+        "usuario_id": "maria@exemplo.com",
+        "preco": "5999",
+        "vendido": false,
+        "descricao": "Este é um novo notebook LG com processador i7 e bateria de longa duração.",
+        "fotos": ["https://exemplo.com/foto1.jpg"]
+      },
+      {
+        "id": "smartwatch-apple",
+        "nome": "Smartwatch Apple Watch Series 6",
+        "usuario_id": "andre@exemplo.com",
+        "preco": "3999",
+        "vendido": false,
+        "descricao": "Este é um novo smartwatch Apple com tela Retina sempre ativa e sensor de oxigênio no sangue.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "smartphone-xiaomi",
+        "nome": "Smartphone Xiaomi Mi 11",
+        "usuario_id": "joao@exemplo.com",
+        "preco": "4199",
+        "vendido": false,
+        "descricao": "Este é um novo smartphone Xiaomi com processador Snapdragon 888 e câmera tripla.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "tablet-samsung",
+        "nome": "Tablet Samsung Galaxy Tab S7+",
+        "usuario_id": "carlos@exemplo.com",
+        "preco": "5199",
+        "vendido": false,
+        "descricao": "Este é um novo tablet Samsung com tela Super AMOLED e caneta S Pen.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "notebook-dell",
+        "nome": "Notebook Dell Inspiron 15 5000",
+        "usuario_id": "maria@exemplo.com",
+        "preco": "3499",
+        "vendido": false,
+        "descricao": "Este é um novo notebook Dell com processador i5 e placa de vídeo AMD Radeon 620.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "smartphone-samsung",
+        "nome": "Smartphone Samsung Galaxy S21",
+        "usuario_id": "joao@exemplo.com",
+        "preco": "5499",
+        "vendido": false,
+        "descricao": "Este é um novo smartphone Samsung com processador Exynos 2100 e câmera tripla.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "tablet-apple",
+        "nome": "Tablet Apple iPad Pro",
+        "usuario_id": "carlos@exemplo.com",
+        "preco": "6299",
+        "vendido": false,
+        "descricao": "Este é um novo tablet Apple com processador M1 e tela Liquid Retina XDR.",
+        "fotos": ["https://exemplo.com/foto1.jpg", "https://exemplo.com/foto2.jpg"]
+      },
+      {
+        "id": "notebook-lenovo",
+        "nome": "Notebook Lenovo ThinkPad X1 Carbon",
+        "usuario_id": "maria@exemplo.com",
+        "preco": "7799",
+        "vendido": false,
+        "descricao": "Este é um novo notebook Lenovo com processador i7 e tela de 14 polegadas.",
+        "fotos": ["https://exemplo.com/foto1.jpg"]
+      }
+
+
+      
+    ]
+  }
+  
